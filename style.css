@@ -1,0 +1,86 @@
+.header-section{
+    background-color: #101446;
+}
+.logo img{
+width: 100px;
+height: auto;
+}
+.header-section ul{
+    margin-bottom: 0;
+}
+.header-section ul li{
+display: inline-block;
+}
+.header-section ul li a{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    margin-left: -4px;
+    padding: 10px 30px;
+    line-height: 48px;
+    font-size: 20px;
+}
+
+/* banner section start */
+.banner-section{
+    background: url(https://i.postimg.cc/0Q1L9NVc/intro-bg.jpg) no-repeat top center;
+    background-size: cover;
+    padding: 200px 0;
+    color: white;
+}
+.banner-section h3 {
+	font-size: 1.75rem;
+	margin-top: 145px;
+}
+.lbtn {
+	margin-top: 45px;
+	padding: 10px 25px;
+	border: none;
+	border-radius: 5px;
+	background-color: #337ab7;
+	color: white;
+}
+
+
+/* banner section end */
+
+/* teem section start */
+.teem-section{
+    background-color: #bac1f3;
+}
+ .teem-btn{
+    padding: 10px 25px;
+	border: none;
+	border-radius: 5px;
+	background-color: #337ab7;
+	color: white;
+} 
+
+/* teem section end */
+
+/* about section start */
+.about-section{
+    background-color: #c2d4ea;
+}
+
+
+/* about section end */
+
+/* contact section start */
+.contact-section{
+    background-color: #f5f5f5;
+}
+.common-m{
+    height: 125px;
+}
+
+/* contact section end */
+
+/* footer section */
+.footer-section{
+    background-color: #0062d3;
+    color: white;
+}
+.footer-section p {
+	margin-bottom: 0;
+}
